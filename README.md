@@ -1,4 +1,4 @@
-### Hi there 👋
+### No.
 
 <!--
 **waits4thebus/waits4thebus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
